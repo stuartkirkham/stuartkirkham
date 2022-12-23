@@ -46,7 +46,6 @@ I am studying to become a Full Stack Developer <img src="https://media.giphy.com
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stuartkirkham&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartkirkham&layout=compact&theme=vision-friendly-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stuartkirkham)]
 
 
 
