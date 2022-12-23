@@ -1,13 +1,3 @@
-### Hi there 👋
-
-<!--
-**stuartkirkham/stuartkirkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqvk9gboitj52g5vfjcy33p5s1mjnfzenls6unm2&rid=giphy.gif&ct=g" width="300"/>
   <div id="badges">
@@ -22,6 +12,10 @@ Here are some ideas to get you started:
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=your-github-stuartkirkham&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 
