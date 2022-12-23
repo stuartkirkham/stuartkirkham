@@ -28,4 +28,4 @@ I am studying to become a Full Stack Developer <img src="https://media.giphy.com
 
 - :zap: In my free time, I love spending time outdoors Snowboarding or Surfing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url)](https://www.linkedin.com/in/stuart-kirkham-2b900b205/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stuart-kirkham-2b900b205/)
