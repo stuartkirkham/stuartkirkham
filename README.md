@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqvk9gboitj52g5vfjcy33p5s1mjnfzenls6unm2&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqvk9gboitj52g5vfjcy33p5s1mjnfzenls6unm2&rid=giphy.gif&ct=g" width="300"/>
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
