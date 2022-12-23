@@ -20,4 +20,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am studying to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at the University of Utah.
+
+- :telescope: I’m currently enrolled full time in the Masters of Software Development program at the University of Utah learning Full Stack development.
+
+- :seedling: Exploring Mobile App Development.
+
+- :zap: In my free time, I love spending time outdoors Snowboarding or Surfing.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][(your-linkedin-url)](https://www.linkedin.com/in/stuart-kirkham-2b900b205/)
