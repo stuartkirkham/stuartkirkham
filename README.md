@@ -40,7 +40,7 @@ I am studying to become a Full Stack Developer <img src="https://media.giphy.com
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+https://github-readme-streak-stats.herokuapp.com/?user=stuartkirkham
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stuartkirkham&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
