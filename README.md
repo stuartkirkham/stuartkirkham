@@ -22,10 +22,26 @@
 ### :man_technologist: About Me :
 I am studying to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at the University of Utah.
 
-- :telescope: I’m currently enrolled full time in the Masters of Software Development program at the University of Utah learning Full Stack development.
+- :telescope: I’m currently enrolled full time in the Masters of Software Development program at the University of Utah learning Full Stack Development.
 
 - :seedling: Exploring Mobile App Development.
 
 - :zap: In my free time, I love spending time outdoors Snowboarding or Surfing.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stuart-kirkham-2b900b205/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stuartkirkham&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
