@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47tqvk9gboitj52g5vfjcy33p5s1mjnfzenls6unm2&rid=giphy.gif&ct=g" width="300"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/stuart-kirkham-2b900b205/)">
+  <a href="(https://www.linkedin.com/in/stuart-kirkham-2b900b205/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="[your-instagram-URL](https://www.instagram.com/_stulander_/)">
+    <a href="(https://www.instagram.com/_stulander_/)">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="[your-twitter-URL](https://twitter.com/_Stulander_)">
+  <a href="(https://twitter.com/_Stulander_)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
